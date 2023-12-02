@@ -125,4 +125,11 @@
     color: #FFFFFF;
    margin-bottom: 24px;
 }
-
+.footer{
+    width: 1200px;
+    height: 577px;
+  padding:130px 230px;
+  display: flex;
+  justify-content: space-between;
+  background-color:black;
+}
