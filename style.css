@@ -133,3 +133,17 @@
   justify-content: space-between;
   background-color:black;
 }
+.foo-div1{
+    width: 485px;
+    height: 313px;
+    
+}
+.foo-div2{
+    width: 325px;
+    height: 204px;
+    background-color: antiquewhite;
+}
+.heading-4{
+    font-size: 45px;
+    color: #FFFFFF;
+}
